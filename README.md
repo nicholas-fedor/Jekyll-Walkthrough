@@ -2,6 +2,8 @@
 
 Tutorial website using Jekyll static site generator
 
+The walkthrough/tutorial can be found [here](https://jekyllrb.com/docs/step-by-step/01-setup/).
+
 ## Prerequisites
 
 Docker installed and running.
