@@ -2,19 +2,20 @@
 
 Tutorial website using Jekyll static site generator
 
-The walkthrough/tutorial can be found on Jekyll's [Getting Started > Step by
-Step Tutorial page](https://jekyllrb.com/docs/step-by-step/).
+Jekyll's walkthrough/tutorial:
+[Getting Started > Step by Step Tutorial page](https://jekyllrb.com/docs/step-by-step/)
 
 ## Development Environment
 
-Docker image provided by [Starefossen's Alpine Docker GitHub
-Pages](https://github.com/Starefossen/docker-github-pages).
+Docker image provided by Starefossen's Alpine Docker GitHub
+Pages Repository:
+<https://github.com/Starefossen/docker-github-pages>
 
 Docker Hub: <https://hub.docker.com/r/starefossen/github-pages/>
 
 ### Prerequisites
 
-- Docker and Docker Compose installed
+- Docker and Docker Compose
 
 #### Quick installation
 
